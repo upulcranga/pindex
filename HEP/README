@@ -1,0 +1,7 @@
+The Cit-HepTh file contains the citation relationships between the nodes in the network. It's a tab separated list of IDs.
+
+Example:
+
+1001  9304045
+
+This means, paper ID 1001 is cited by paper ID 9304045
