@@ -1,0 +1,685 @@
+Utility of information game theoretic approach, H Everett
+A GLOBAL THEORY FOR LINEAR QUADRATIC DIFFERENTIAL GAMES, DL Lukes, DL Russell
+A quantum shuffling game for teaching statistical mechanics, PJ Black, P Davies, JM Ogborn
+A max-min differential game in Hilbert space, JE ROBERT
+Statistical decision theory for quantum systems, AS Holevo
+A Hilbert-space approach to minimax state estimation for plants subject to a control energy constraint, Gyorgy Hexner, Max Mintz
+Quantum detection and estimation theory, CW Helstrom
+Linear quadratic differential games in a Hilbert space, A Ichikawa
+Stochastic linear differential game with a square integrable martingale as noise, A Bagchi
+Optimum quantum decision between a pure and a mixed state with application to detection of TCS signals, CW Helstrom
+CLASSICAL AND QUANTUM DECISION THEORY, Z Doraotor
+The game of quandice, TW Marshall
+Playing the quantum shuffling game with programmable pocket calculators and microcomputers, G Sauer
+On an antagonistic game and prediction of stationary random processes in a Hilbert space, MP Moklyachuk
+The Shaky Game: Einstein and the Quantum Theory, Arthur Fine
+Quantum cellular automata, Gerhard Grossing, A Zeilinger
+On the zigzagging causality model of EPR correlations and on the interpretation of quantum mechanics, O Costa de Beauregard
+In Search of Einstein's Legacy: A Critical Notice of Arthur Fine; The Shaky Game: Einstein; Realism; and the Quantum Theory, Richard W Miller
+Quantum Plans To Be Player in Performance Polyolefins Game, D Charnas
+Fine's" Shaky Game"(And Why NOA Is No Ark for Science), Richard H Schlagel
+Three pseudo-paradoxes in ‘quantum’decision theory: Apparent effects of observation on probability and utility, Louis Marinoff
+Protection by oestradiol against the development of cardiovascular changes associated with monocrotaline pulmonary hypertension in rats, Michel Y Farhat, MingFong Chen, Tahira Bhatti, Azhar Iqbal, Seedabarum Cathapermal, Peter W Ramwell
+Bell’s inequalities versus teleportation: What is nonlocality?, S Popescu
+An approximation scheme for the solutions of the Hamilton-Jacobi equations with max-min Hamiltonians in Hilbert spaces, Teodor Havarneanu
+Optimal extraction of information from finite quantum ensembles, S Massar, S Popescu
+Applications of quantum statistics in psychological studies of decision processes, D Aerts, S Aerts
+Quantum cryptography with coherent states, B Huttner, N Imoto, N Gisin, T Mor
+Minimum decision cost for quantum ensembles, D Brody, B Meister
+A decision procedure for well-formed linear quantum cellular automata, C Dürr, H Lê Thanh, M Santha
+The Shaky Game: Einstein, A Fine
+Quantum cellular automataVD, W van Dam
+A decision procedure for unitary linear quantum cellular automata, C Durr, M Santha
+Quantum seeing in the dark, P Kwiat, H Weinfurter, A Zeilinge
+From quantum cellular automata to quantum lattice gases, DA Meyer
+Optimal eavesdropping in quantum cryptography. I. Information bound and optimal strategy, CA Fuchs, N Gisin, RB Griffiths, CS Niu, A Peres
+Differential game with switching controls on Hilbert space, SP Yung
+A decision procedure for well-formed linear quantum cellular automata, C Dürr, H LêThanh, M Santha
+Quantum strategies, DA Meyer
+Indeterministic Quantum Gravity and Cosmology X. Probability-Theoretic Aspect: A Hidden Selector for Quantum Jumps; or How the Universe Plays the Game of Chance, VS Mashkevich
+Game theoretic reasoning in multi-agent coordination by negotiation with a trusted third party, SH Wu, VW Soo
+Quantum gambling, L Goldenberg, L Vaidman, S Wiesner
+Unconditionally secure quantum coin tossing, D Mayers, L Salvail, Y Chiba-Kohno
+Quantum Probability from Decision Theory, J Finkelstein
+Quantum theory of probability and decisions, D Deutsch
+Quantum games and quantum strategies, J Eisert, M Wilkens, M Lewenstein
+Quantum computers and quantum coherence, DP DiVincenzo, D Loss
+Cheat sensitive quantum bit commitment, L Hardy, A Kent
+Quantum GamesP, I Peterson
+Quantum Game Theory, YS Zhang, CF Li, GC Guo
+Why quantum strategies are quantum mechanical, DA Meyer
+Riemannian geometry and Hilbert space applied to metamagical game theory and the survival problem of Schödinger’s cat, KF Gauss, JH Poincaré
+Optical realization of quantum gambling machine, YS Zhang, CF Li, WL Li, YF Huang, GC Guo
+Quantum and classical game strategies, SJ Van Enk
+Quantum mechanics and mathematical economics are isomorphic, L Lambertini
+Quantum Formulation of Classical Two Person Zero-Sum Games, A Boukas
+Quantum Decision Maker Theory and Simulation, M Zak, RE Meyers, KS Deacon
+Quantum bit escrow, D Aharonov, A Ta-Shma, UV Vazirani, AC Yao
+Quantum probability from decision theory?, H Barnum, CM Caves, J Finkelstein, CA Fuchs
+A quantum approach to static games of complete information, L Marinatto, T Weber
+Playing a quantum game in a corrupt world, NF Johnson
+Quantum decision-maker, M Zak
+Nash equilibrium in the quantum battle of sexes game, J Du, X Xu, H Li, X Zhou, R Han
+Quantum games, J Eisert, M Wilkens
+Quantum strategy without entanglement, J Du, X Xu, H Li, M Shi, X Zhou, R Han
+Quantum roulette: an extended quantum strategy, XB Wang, LC Kwek, CH Oh
+INTRODUCTION TO QUANTUM INFORMATION, GUOG Can
+Playing a quantum game with a corrupted source, NF Johnson
+The Existence and Uniqueness of Equilibria in Convex Games with Strategies in Hilbert Spaces, DA Carlson
+Max-min controllability of delay-differential games in Hilbert spaces, YH Kang, JM Jeong, JY Park
+Remark on quantum battle of the sexes game, J Du, H Li, X Xu, M Shi, X Zhou, R Han
+Evolutionarily stable strategies in quantum games, A Iqbal, AH Toor
+Quantum strategies of quantum measurements, CF Li, YS Zhang, YF Huang, GC Guo
+Darwinism in quantum systems?, A Iqbal, AH Toor
+Law of Excluded Quantum Gambling Strategies, G Segre
+Quantum mechanics gives stability to a Nash equilibrium, A Iqbal, AH Toor
+Stability of mixed Nash equilibria in symmetric quantum games, A Iqbal, AH Toor
+Evolutionary stability of mixed Nash equilibrium in quantized symmetric bi-matrix games, A Iqbal, AH Toor
+Equilibria of replicator dynamics in quantum games, A Iqbal, AH Toor
+Comment on "Quantum Games and Quantum Strategies", SC Benjamin, PM Hayden
+Entanglement and dynamic stability of Nash equilibria in a symmetric quantum game, A Iqbal, AH Toor
+Multiplayer quantum games, SC Benjamin, PM Hayden
+Quantum Monty Hall, AP Flitney, D Abbott
+Quantum-like approach to financial risk: quantum anthropic principle, EW Piotrowski, J Sladkowski
+Entanglement playing a dominating role in quantum games, J Du, X Xu, H Li, X Zhou, R Han
+Worst-case Payoffs in Quantum Battle of Sexes Game, A Nawaz, AH Toor
+Evolutionary quantum game, R Kay, NF Johnson, SC Benjamin
+Quantum solution to the Byzantine agreement problem, M Fitzi, N Gisin, U Maurer
+Quantum gambling using two nonorthogonal states, WY Hwang, D Ahn, SW Hwang
+Playing by quantum rules, E Klarreich
+Quantum games and quantum algorithms, DA Meyer
+Order from disorder: the role of noise in creative processes: a special issue on game theory and evolutionary processes—overview, D Abbott, PCW DAVIES, CR SHALIZI
+Quantum tic-tac-toe; spooky-coins & magic-envelopes; as metaphors for relativistic quantum physics, A Goff
+Quantum game theoryML, ML Stohler
+Adversarial collaboration decision-making: An overview of social quantum information processing, WF Lawless
+QUANTUM GAME WITH INCOMPLETE INFORMATION, YJ HAN, YS ZHANG, GCAN GU
+Quantum Game as Communication and Computation, T KAWAKAMI
+Investigation into the effects of noise on quantum strategies, WL Ang
+Quantum Parrondo games: biased and unbiased, DA MEYER, H BLUMER
+Pseudo-telepathy; entanglement; and graph colorings, V Galliard, S Wolf
+Quantum cooperative games, A Iqbal, AH Toor
+The quantum monty hall problem, GM D'ariano, RD Gill, M Keyl, B Kuemmerer
+Parrondo games and quantum algorithms, CF Lee, N Johnson
+Experimental realization of quantum games on a quantum computer, J Du, H Li, X Xu, M Shi, J Wu, X Zhou, R Han
+W state and Greenberger-Horne-Zeilinger state in quantum three-person prisoner's dilemma, YJ Han, YS Zhang, GC Guo
+Classical rules in quantum games, SJ Van Enk, R Pike
+Parrondo games as lattice gas automata, DA Meyer, H Blumer
+Noisy quantum game, JL Chen, LC Kwek, CH Oh
+Backwards-induction outcome in a quantum game, A Iqbal, AH Toor
+Quantum bargaining games, EW Piotrowski, J Sladkowski
+Quantum Game TheoryLa, M Lassig
+An introduction to quantum coin-tossing, C Döscher, M Keyl
+Quantum version of the Monty Hall problem, AP Flitney, D Abbott
+Optimal Guessing Strategies in a Quantum Card Game, CL Chou, LY Hsu
+Efficiency and formalism of quantum games, CF Lee, N Johnson
+Quantum games with a multi-slit electron diffraction setup, A Iqbal
+Quantum games and social norms. The quantum ultimatum game, RV Mendes
+An introduction to quantum game theory, AP Flitney, D Abbott
+Quantum repeated games, A Iqbal, AH Toor
+Cooperative three-and four-player quantum games, YJ Ma, GL Long, FG Deng, F Li, SX Zhang
+On pay-off induced quantum games, FMC Witte
+Quantum market games, EW Piotrowski, J Sladkowski
+Quantum logic and quantum theory in a game-theoretic perspective, A Pietarinen
+Multi-Player and Multi-Choice Quantum Game, DU Jiang-Feng, L Hui, X Xiao-Dong, Z Xian-Yi
+Exploiting randomness in quantum information processing, CF Lee, NF Johnson
+Miracle moves in 2x2 quantum games, AP Flitney, D Abbott
+Entanglement enhanced multiplayer quantum games, J Du, H Li, X Xu, X Zhou, R Han
+Let the quantum games begin, CF Lee, N Johnson
+QUANTUM GAME THEORY I: RESOLVING LONG-TERM EMOTIONAL CONFLICTS, V Selman
+The quantum model of social decision-making, WF Lawless, M Schwartz
+Non-cooperative quantum game theory, CF Lee, NF Johnson
+Quantum Parrondo's games, AP Flitney, J Ng, D Abbott
+The social quantum model of dissonance, WF Lawless, M Schwartz
+Quantum protocol for cheat-sensitive weak coin flipping, RW Spekkens, T Rudolph
+Macroscpoic Quantum Game, A Grib, G Parfionov
+Quantum models of Parrondo's games, AP Flitney, D Abbott
+Quantum probability and decision theory; revisited, D Wallace
+A quantum treatment of public goods economics, KY Chen, T Hogg, R Beausoleil
+Generalized quantum games with nash equilibrium, XF Liu, CP Sun
+Interacting many-body systems as non-cooperative games, CF Lee, NF Johnson
+Continuous-variable quantum games, H Li, J Du, S Massar
+Quantum game theoryCF, CF Lee, NF Johnson
+Quantum soft computing via robust control: Classical efficient simulation of wise quantum control in non-linear dynamic systems based on quantum game gates, SV Ulyanov, K Takahashi, LV Litvintseva
+The impossibility of pseudotelepathy without quantum entanglement, V Galliard, A Tapp, S Wolf
+Deutsch on quantum decision theory, PJ Lewis
+Quantum games and minimum entropy, E Jiménez
+A quantum approach to knowledge fusion and organizational mergers, WF Lawless
+LETTER TO THE EDITOR: Evolutionary quantum game, R Kay, NF Johnson, SC Benjamin
+Noisy quantum Parrondo games, DA Meyer
+A practical quantum mechanism for the public goods game, KY Chen, T Hogg, R Beausoleil
+Bit-commitment-based quantum coin flipping, A Nayak, P Shor
+Playing prisoner's dilemma with quantum rules, J Du, X Xu, H Li, X Zhou, R Han
+Quantum game in matrix strategies, B Chen, YJ Ma, GL Long
+Quantum Game with Restricted Matrix Strategies, B Chen, YJ Ma, GL Long
+Interference of quantum market strategies, EW Piotrowski, J Sladkowski, J Syska
+Quantum english auctions, EW Piotrowski, J Sladkowski
+Quantum Chinos game: winning strategies through quantum fluctuations, F Guinea, MA Martin-Delgado
+Quantum duels and truels, AP Flitney, D Abbott
+An invitation to quantum game theory, EW Piotrowski, J Sladkowski
+Trading by quantum rules: quantum anthropic principle, EW Piotrowski, J Sladkowski
+Quantum walks driven by many coins, TA Brun, HA Carteret, A Ambainis
+Giffen paradoxes in quantum market games, J Sladkowski
+Fixed point theorem for simple quantum strategies in quantum market games, EW Piotrowski
+Phase-transition-like behaviour of quantum games, J Du, H Li, X Xu, X Zhou, R Han
+A zero sum differential game in a Hilbert space, MK Ghosh, AK Nandakumaran, KS Mallikarjuna Rao
+Non-transitive quantum games, M Stohler, E Fischbach
+Experimental implementation of a quantum game, C Schuck
+Quantum games of asymmetric information, J Du, H Li, C Ju
+Reduced entanglement for quantum games, L Zhang, T Hogg
+The next stage: quantum game theory, EW Piotrowski, J Sladkowski
+Probability amplitude in quantum like games, AA Grib, AY Khrennikov, K Starkov
+Correlated equilibria of classical strategic games with quantum signals, P La Mura
+Proposal for optically realizing a quantum game, L Zhou, LM Kuang
+Quantum prisoner dilemma under decoherence, LK Chen, H Ang, D Kiang, LC Kwek, CF Lo
+Advantage of a quantum player over a classical one in 2× 2 quantum games, AP Flitney, D Abbott
+Let us play with qubits, S Gravier, P Jorrand, M Mhalla, C Payan
+Samaritan's Dilemma: Classical and quantum strategies in Welfare Game, SK Ozdemir, J Shimamura, F Morikoshi, N Imoto
+Quantum Games: Mixed Strategy Nash's Equilibrium Represents Minimum Entropy, E Jiménez
+Quantum Stackelberg duopoly, CF Lo, D Kiang
+Quantum and classical correlations between players in game theory, J Shimamura, ŞK ÖZDEMIR, F Morikoshi, N Imoto
+Altruistic duality in evolutionary game theory, T Cheon
+Quantum solution of coordination problems, BA Huberman, T Hogg
+Quantum oligopoly, CF Lo, D Kiang
+Game-theoretic discussion of quantum state estimation and cloning, CF Lee, NF Johnson
+Computational intelligence with quantum game’s approach and robust decision-making in communication information uncertainty, SV Ulyanov, LV Litvintseva, SS Ulyanov, K Takahashi
+Influence of Constraint in Parameter Space on Quantum Games, HJ Zhao, XM Fang
+Quantum pseudo-telepathy and the Kochen-Specker theorem, R Renner, S Wolf
+*repeated-179*
+THE QUANTUM PERTURBATION MODEL OF ORGANIZATIONS, WF LAWLESS
+A quantum model of organizations; autonomy; and control, WF Lawless, JM Grayson
+A Quantum Perturbation Model (QPM) of Knowledge Fusion and Organizational Mergers, WF Lawless, JM Grayson
+Quantum Bertrand duopoly with differentiated products, CF Lo, D Kiang
+Classification of Quantum Symmetric Nonzero-Sum 2x2 Games in The Eisert Scheme, AFH Rosero
+A stock market agent-based model using evolutionary game theory and quantum mechanical formalism, BS Montin
+Quantum Tic-Tac-Toe as Metaphor for Quantum Physics, A Goff, D Lehmann, J Siegel
+Quantum game theorySE, SE Landsburg
+Quantum pseudo-telepathy games, AL Broadbent
+Dilemma and quantum battle of sexes, A Nawaz, AH Toor
+*repeated-47*
+The quantum shell game, D Fulton
+An arbitrary game with entangled equilibrium state, J Wu
+Quantum Information and Game Theory, A Blum, R Griffiths, J Rashid
+Quantum advantage does not survive in the presence of a corrupt source: optimal strategies in simultaneous move games, ŞK Özdemir, J Shimamura, N Imoto
+How Quantum Entanglement Helps to Coordinate Non-Communicating Players, GV Klimovitch
+Decoherence in quantum games, AP Flitney, D Abbott
+Quantum correlation games, A Iqbal, S Weigert
+Consequences and limits of nonlocal strategies, R Cleve, P Hoyer, B Toner, J Watrous
+Multiparty quantum coin flipping, A Ambainis, H Buhrman, Y Dodis, H Rohrig
+N-player quantum minority game, Q Chen, Y Wang, JT Liu, KL Wang
+Entangled states that cannot reproduce original classical games in their quantum version, J Shimamura, ŞK Özdemir, F Morikoshi, N Imoto
+Quantum correlations and Nash equilibria of a bi-matrix game, A Iqbal
+A quantum teleportation game, S Pirandola
+Non-classical quantum correlations in quantum games, J Du, G Cheng, H Li
+Quantum walks with history dependence, AP Flitney, D Abbott, NF Johnson
+Does the Quantum Player Always Win the Classical One?, Z Hai-Jun, F Xi-Ming
+Quantum two and three-person duels, AP Flitney, D Abbott
+Quantum Battle of the Sexes revisited, JJF Neto
+Recasting Mermin's multi-player game into the framework of pseudo-telepathy, G Brassard, A Broadbent, A Tapp
+Extended GHZ n-player games with classical probability of winning tending to 0, M Boyer
+Coordination Games with Quantum Information, V Kargin
+Linear optics implementation for quantum game with two players, J Lu, L Zhou, LM Kuang
+Serial composition of quantum coin flipping and bounds on cheat detection for bit commitment, C Mochon
+Quantum shell game: finding the hidden pea in a single attempt, A Muthukrishnan, M Jones, MO Scully, MS Zubairy
+On-line regression competitive with reproducing kernel Hilbert spaces; The Game-Theoretic Probability and Finance project, V Vovk
+Quantum communication in games, DA Meyer
+Generalized quantization scheme for two-person non-zero sum games, A Nawaz, AH Toor
+Quantum games in finance, EW Piotrowski, J Sladkowski
+Does quantum mechanics play a non-trivial role in life?, PCW Davies
+A global search strategy of quantum-behaved particle swarm optimization, J Sun, W Xu, B Feng
+Dynamics of a discoordination game with classical and quantum correlations, ŞK Özdemir, J Shimamura, F Morikoshi, N Imoto
+Quantization of Games: Towards Quantum Artificial Intelligence, J Sladkowski
+Aspects of quantum game theory, AP Flitney
+Altruistic contents of quantum prisoner's dilemma, T Cheon
+Quantum interactive proofs with competing provers, G Gutoski, J Watrous
+Introduction to quantum games and a quantum Parrondo game, J Ng, D Abbott
+Can a Game be Quantum?, AA Grib, GN Parfionov
+Quantum games have no news for economists, DK Levine
+Quantum diffusion of prices and profits, EW Piotrowski, J Sladkowski
+Quantum strategies in noncooperative games, GB Dahl, SE Landsburg
+A Semi-quantum Version of the Game of Life, AP Flitney, D Abbott
+The Analysis on Quantum Games for its Advantage, L ZHANG, GJ ZHANG, S ZHOU, X HU
+Quantum 2-player gambling and correlated pay-off, FMC Witte
+QUANTUM IMPLEMENTATION OF PARRONDO’S PARADOX, P Gawron, JA MISZCZAK
+Quantum games with decoherence, AP Flitney, D Abbott
+The quantum ultimatum game, RV Mendes
+Experimental realization of a quantum quincunx by use of linear optical elements, B Do, ML Stohler, S Balasubramanian, DS Elliott
+When the macroscopic game is the quantum game?, AA Grib, GN Parfionov
+Quantum entanglement helps in improving economic efficiency, J Du, C Ju, H Li
+*repeated-242*
+Theory of games on quantum objects, J Wu
+Econophysics: from game theory and information theory to quantum mechanics, E Jimenez, D Moya
+Studies in the Theory of Quantum Games, A Iqbal
+Universality of Measurements on Quantum Markets, I Pakuła, EW Piotrowski, J Sladkowski
+Quantum games and programmable quantum systems, EW Piotrowski, J Sladkowski
+Quantum games of continuous distributed incomplete information, C Xi, Q Gan, Z Xian-Yi, D Jiang-Feng
+Quantum Bertrand duopoly of incomplete information, G Qin, X Chen, M Sun, J Du
+Multiplayer quantum games with continuous-variable strategies, J Zhou, L Ma, Y Li
+Fast quantum Byzantine agreement, M Ben-Or, A Hassidim
+*repeated-261*
+Quantum Arthur–Merlin games, C Marriott, J Watrous
+Upper bounds for quantum interactive proofs with competing provers, G Gutoski
+An introduction to quantum game theory, JO Grabbe
+Bulk-to-nano: Is there hope for organic conductors in the Quantum Game?, JS Brooks
+Playing games in quantum mechanical settings: A necessary and sufficient condition, J Shimamura, SK Ozdemir, N Imoto
+Using quantum mechanics to cope with liars, S Mancini, L Maccone
+Impact of entanglement on the game-theoretical concept of evolutionary stability, A Iqbal
+Resolving the trust predicament: a quantum game-theoretic approach, B Arfi
+Hybrid cluster state proposal for a quantum game, M Paternostro, MS Tame, MS Kim
+Quantum Stackelberg duopoly with incomplete information, CF Lo, D Kiang
+Multiplayer quantum minority game with decoherence, AP Flitney
+Quantum Cat's Dilemma, M Makowski, EW Piotrowski
+Playing games with EPR-type experiments, A Iqbal
+Quantum pseudo-telepathy, G Brassard, A Broadbent, A Tapp
+Quantum Solution to the Extended Newcomb's Paradox, DP Chi, K Jeong
+The effect of quantum noise on the restricted quantum game, C Shuai, F Mao-Fa
+A quantum information processing explanation of disjunction effects, JR Busemeyer, M Matthews, Z Wang
+Entanglement in quantum game theory, T Ichikawa
+Quantum econophysics, EG Hidalgo
+The Analysis on the Quantized Game Theory of the Network Economy Information, Z Hong
+A survey of possible uses of quantum mechanical concepts in financial economics, E Haven
+From Classical Game Theory to Quantum Game Theory, LZW Xiaolong
+Multiplayer quantum game with continuous-variable strategies, Z Jie
+Studies in the Quantum Games, A Iqbal
+Social theory as cartesian science: An auto-critique from a quantum perspective, A Wendt, S. Guzzini, A. Leander
+Classical and quantum contents of solvable game theory on Hilbert space, T Cheon, I Tsutsui
+Proposal of Realization Restricted Quantum Game with Linear Optic Method, Z Hai-Jun, F Xi-Ming
+How Well Do People Play a Quantum Prisoner’s Dilemma?, KY Chen, T Hogg
+Linear optics implementation for quantum game under quantum noise, C Shuai, F Mao-Fa
+Two-player quantum pseudotelepathy based on recent all-versus-nothing violations of local realism, A Cabello
+Two-person zero-sum linear quadratic stochastic differential games by a Hilbert space method, L Mou, J Yong
+Quantum market games: implementing tactics via measurements, I Pakula, EW Piotrowski, J Sladkowski
+Quantum Cellular AutomataM, M Macucci
+The role of measurement in quantum games, A Nawaz, AH Toor
+Qudits representations and computations of n-player many-valued quantum games, AN Al-Rabadi
+An Investigation of Quantum Computational Game Theory, S Ricketts
+Introduction to the study of entropy in quantum games, E Guevara
+Investigations in quantum games using EPR-type set-ups, A Iqbal
+A quantum protocol to win the graph colouring game on all hadamard graphs, A David, J Hasegawa, Y Kikuchi, Y Sasaki
+On quantum team games, E Ahmed, MF Elettreby, AS Hegazi
+Game theory formulated on Hilbert space, T Cheon
+A Connection Between Correlation in Game Theory and Quantum Mechanics, A Brandenburger
+Quantum games entropy, E Guevara
+Quantum equilibria for macroscopic systems, A Grib, A Khrennikov, G Parfionov, K Starkov
+Quantum dynamics of human decision-making, JR Busemeyer, Z Wang, JT Townsend
+Quantum Simulation and Communication Games, D Meyer
+Quantum cat's dilemma: an example of intransitivity in a quantum game, M Makowski, EW Piotrowski
+The application of asymmetric entangled states in quantum games, Y Li, G Qin, X Zhou, J Du
+Conditional quantum walk and iterated quantum games, G Abal, R Donangelo, H Fort
+Quantum games with correlated noise, A Nawaz, AH Toor
+Quantization of games: Towards quantum artificial intelligence, K Miakisz, EW Piotrowski, J Sladkowski
+Quantum extension of European option pricing based on the Ornstein–Uhlenbeck process, EW Piotrowski, M Schroeder, A Zambrzycka
+Quantum octal games, S Gravier, P Jorrand, M Mhalla, C Payan
+QUANTUM STRATEGIES AND QUANTUM GAMBLING, S Abeyratne
+New models of quantum games, PBM de Sousa, RV Ramos
+Quantum gaming system, JH Kim
+GAMES USING PAIR-WISE ENTANGLEMENTS, RG Beausoleil, K Chen, T Hogg, LI Zhang, WJ Munro
+Quantum games in open systems using biophysical Hamiltonians, J Faber, R Portugal, LP Rosa
+Quantum Econophysics, E Guevara
+Quantum Games in ion traps, IM Buluta, S Fujiwara, S Hasegawa
+Simple setups for quantum games in optical networks, RV Ramos, PBM de Sousa
+Quantum tic-tac-toe: A teaching metaphor for superposition in quantum mechanics, A Goff
+A quantum reinforcement learning method for repeated game theory, C Chen, D Dong, Q Shi, Y Dong
+Non linear stability of L 4 in the restricted three body problem for radiated axes symmetric primaries with resonances, R Aggarwal, ZA Taqvi, A Iqbal
+Evolutionary game algorithm for flow shop scheduling program, XIAMYE Chun-ming, WU Yong
+Quantum Computing and The Nash Bargaining Problem, FP Vos, PJ Vos
+Quantum Games: Bayesian Nash Equilibria and Bell Inequalities, T Cheon
+An Evolutionary Quantum Game Model of Financial Market Dynamics-Theory and Evidence, CP Gon, C Gon
+Quantum Nash Equilibria and the Re-emergence of Quaternions, FP Vos, PJ Vos
+Quantum Nash Equilibria and Quantum Computing, FP Vos, PJ Vos
+Quantum Nash Computing and the Nash Bargaining Problem, FP Vos, PJ Vos
+Quantum games: States of play, N Patel
+A necessary and sufficient condition to play games in quantum mechanical settings, SK Özdemir, J Shimamura, N Imoto
+Quantum social game theory, B Arfi
+Quantum Game Theory Based on the Schmidt Decomposition: Can Entanglement Resolve Dilemmas?, T Ichikawa, I Tsutsui, T Cheon
+Coalitions in the quantum minority game: classical cheats and quantum bullies, AP Flitney, AD Greentree
+Quantum information processing explanation for interactions between inferences and decisions, JR Busemeyer, Z Wang
+*Repeated-331*
+Supersymmetry and quantum games, J Hruby
+The effect of quantum noise on multiplayer quantum game, C Shuai, F Mao-Fa, Z Xiao-Juan
+Nash equilibria in quantum games with generalized two-parameter strategies, AP Flitney, LCL Hollenberg
+A Game-Theoretic Approach to Metaphysical Reconciliation of Quantum Superposition, S Bhattacharya, K Kumar
+An Evolutionary Quantum Game Model of Financial Market Dynamics− Theory and Evidence, CP Gonçalves, C Gonçalves
+Analysis of trembling hand perfect equilibria in quantum games, I PAKUŁA
+Quantum-like Representation of Extensive Form Games: Wine Testing Game, A Khrennikov
+The road to quantum artificial intelligence, KN Sgarbas
+Experimental realization of a quantum game on a one-way quantum computer, R Prevedel, A Stefanov, P Walther, A Zeilinger
+Toward a general theory of quantum games, G Gutoski, J Watrous
+Continuous input nonlocal games, N Aharon, S Machnes, B Reznik, J Silman, L Vaidman
+Quantum games via search algorithms, A Romanelli
+Quantum gambling using mesoscopic ring qubits, I Pakuła
+Quantum Nash Equilibria and Quantum Computing, PV Fellman, JV Post
+The influence of entanglement and decoherence on the quantum Stackelberg duopoly game, X Zhu, LM Kuang
+Programming telepathy: Implementing quantum non-locality games, A Tafliovich, ECR Hehner
+Constructing quantum games from non-factorizable probabilities, A Iqbal, T Cheon
+Experimental Validation of Quantum Game Theory, M Hanauske, S Bernius, W Köenig, B Dugall
+Fractional quantum Hall effect: A game of five halves, VJ Goldman
+Quantum game theory and open access publishing, M Hanauske, S Bernius, B Dugall
+Experimental implementation of a three qubit quantum game with corrupt source using nuclear magnetic resonance quantum information processor, A Mitra, K Sivapriya, A Kumar
+A quantum metric of organizational performance: Terrorism and counterterrorism, WF Lawless, M Bergman, J Louçã, NN Kriegel, N Feltovich
+Quantum Parrondo's game with random strategies, J Košík, JA Miszczak, V Bužek
+Quantum games entropy, E Guevara Hidalgo
+Bayesian Nash equilibria and Bell inequalities, T Cheon, A Iqbal
+Can quantum mechanics help to win games?, N Aharon, L Vaidman
+The relation between the quantum games; communication complexity problems and Bell inequalities, M Pawlowski
+Universality of measurements on quantum markets, I Pakuła, EW Piotrowski, J Sladkowski
+Quantum Stackelberg Duopoly of Continuous Distributed Asymmetric Information, W Xia, Y Xiao-Hua, M Lin, Z Xiang, H Cheng-Zheng
+Equivalence between quantum simultaneous games and quantum sequential games, N Kobayashi
+Risk; ambiguity and quantum decision theory, R Franco
+A model of quantum-like decision-making with applications to psychology and cognitive science, A Khrennikov
+Quantum Logic and Macroscopic Quantum Games, A Grib
+Constructing quantum games from nonfactorizable joint probabilities, A Iqbal, T Cheon
+Quantum minority game utilizing various forms of entanglement, AP Flitney, LCL Hollenberg
+*repeated-370*
+Decision theory and information propagation in quantum physics, A Forrester
+Quantum aspects of life, D Abbott, PCW Davies, AK Pati
+How to play two-player restricted quantum games with 10 cards, D Aerts, B D'Hooghe, A Posiewnik, J Pykacz, J Dehaene, BD Moor
+Classical and Quantum Ising Games, M George
+Quantum Decision Theory, VI Yukalov, D Sornette
+Evolutionary stability in quantum games, A Iqbal, T Cheon
+Nash equilibrium and quantum computational complexity, FP Vos, PJ Vos
+Constructing multi-player quantum games from non-factorizable joint probabilities, A Iqbal, T Cheon
+Elementary Quantum Mechanical Principles and Social Science: Is There a Connection?, E Haven
+Quantum Transmemetic Intelligence, EW Piotrowski, J Sladkowski
+*repeated-371*
+*repeated-342*
+Position-dependent and cooperative quantum Parrondo walks, D Bulger, J Freckleton, J Twamley
+Scheme for Implementation of Quantum Game in Cavity QED, C Shu-Ai, F Mao-Fa, Z Xiao-Juan, W Xin-Wen, L Ze-Hua
+Quantum Stackelberg Duopoly Game in Depolarizing Channel, Z Xia, K Le-Man
+Belief revision in quantum decision theory: gambler's and hot hand fallacies, R Franco
+Noise effects in quantum magic squares game, P Gawron, J MISZCZAK, J Sladkowski
+The effect of quantum memory on quantum games, M Ramzan, A Nawaz, AH Toor, MK Khan
+Quantum Strategies and Bell Inequalities, T Cheon
+Quantum Evolutionary Stable Strategies, A Iqbal, AH Toor
+COMMENTS ON 'REVERSE AUCTION: THE LOWEST UNIQUE POSITIVE INTEGER GAME', AP Flitney
+Quantum Games and the Relationships between Quantum Mechanics and Game Theory, E Guevara
+Equivalence between Bell inequalities and quantum game theory, AP Flitney, M Schlosshauer, C Schmid, W Laskowski, LCL Hollenberg
+Use of game-theoretical methods in biochemistry and biophysics, S Schuster, JU Kreft, A Schroeter, T Pfeiffer
+Playing games in quantum mechanical settings: features of quantum games, SK Özdemir, J Shimamura, N Imoto
+Quantum game theory based on the Schmidt decomposition, T Ichikawa, I Tsutsui, T Cheon
+Probabilistic analysis of three-player symmetric quantum games played using EPR setting, A Iqbal, D Abbott, T Cheon
+Quantum Cognitive Science, D Hoffman
+Coherent state exchange in multi-prover quantum interactive proof systems, D Leung, B Toner, J Watrous
+Perfect parallel repetition theorem for quantum XOR proof systems, R Cleve, W Slofstra, F Unger, S Upadhyay
+Quantum advantages in classically defined tasks, N Aharon, L Vaidman
+Static and evolutionary quantum public goods games, Z Liao, G Qin, L Hu, S Li, N Xu, J Du
+On the relation between Bell's inequalities and nonlocal games, J Silman, S Machnes, N Aharon
+On coordination games with quantum correlations, V Kargin
+Multiplayer quantum games and its application as access controller in architecture of quantum computers, PBM de Sousa, RV Ramos
+Multiple Nash-equilibrium in Quantum Game, G Parfionov
+An alternative quantization protocol for the history dependent Parrondo game, FS Khan
+Quantum auctions: Facts and myths, EW Piotrowski, J Sladkowski
+The quantum moment problem and bounds on entangled multi-prover games, AC Doherty, YC Liang, B Toner, S Wehner
+Quantum Game of Two Discriminable Coins, HF Ren, QL Wang
+A quantum game semantics for the measurement calculus, Y Delbecque
+Investigation of quantum roulette, S Salimi, MM Soltanzadeh
+Quantum matching pennies game, A Iqbal, D Abbott
+Experiments with probabilistic quantum auctions, KY Chen, T Hogg
+The Relationship Between Classical and Quantum Correlation in Games, A Brandenburger
+Mathematical basis of quantum decision theory, VI Yukalov, D Sornette
+Three player; Two Strategy; Maximally Entangled Quantum Games, A Ahmed, S Bleiler, FS Khan
+A Formalism for Quantum Games and an Application, SA Bleiler
+Conditional strategies in iterated quantum games, G Abal, R Donangelo, H Fort
+The interaction between matter and a field's single-mode as a quantum game, AM Kowalski, A Plastino
+Position-dependent and cooperative quantum Parrondo walks, D Bulger, J Freckleton, J Twamley
+*repeated-417*
+Quantum Computation and Pseudotelepathic Games, J Bub
+Game semantics for quantum stores, Y Delbecque, P Panagaden
+Entangled games are hard to approximate, J Kempe, H Kobayashi, K Matsumoto, B Toner, T Vidick
+Unique games with entangled provers are easy, J Kempe, O Regev, B Toner
+Probabilistic analysis of three-player symmetric quantum games played using the Einstein-Podolsky-Rosen-Bohm setting, A Iqbal, T Cheon, D Abbott
+Noise effects in a three-player prisoner's dilemma quantum game, M Ramzan, MK Khan
+A MULTIPERSON PURSUIT PROBLEM ON A CLOSED CONVEX SET IN HILBERT SPACE, WJ Leong, II Gafurjan
+Noise in some quantum games, P Gawron
+Quantum decision theory as quantum theory of measurement, VI Yukalov, D Sornette
+How to play macroscopic quantum game, AA Grib, GN Parfionov
+INFLUENCE OF ENTANGLEMENT IN QUANTUM PARRONDO GAME, K Xu, L Huang, W Yang
+Two Party Non-Local Games, I Chakrabarty, BS Choudhury
+A survey of quantum games, H Guo, J Zhang, GJ Koehler
+Monogamy of non-local quantum correlations, B Toner
+A generalized Grothendieck inequality and entanglement in XOR games, J Briët, H Buhrman, B Toner
+Communication aspects of a three-player Prisoner's Dilemma quantum game, M Ramzan, MK Khan
+Equivalence between Bell inequalities and quantum minority games, AP Flitney, M Schlosshauer, C Schmid, W Laskowski, LCL Hollenberg
+Game-theoretic security analysis of quantum networks, S Rass, P Schartner
+The quantum locker puzzle, D Avis, A Broadbent
+Quantum-like models for decision making in psychology and cognitive science, A Khrennikov
+An analysis of the quantum penny flip game using geometric algebra, JM Chappell, A Iqbal, MA Lohe, L von Smekal
+Theoretical analysis of quantum game in cavity QED, C Shuai, F Mao-Fa, L Jian-Bin, W Xin-Wen, L Hai
+A scheme for implementing quantum game in cavity QED, C Shuai, F Mao-Fa, L Jian-Bin, W Xin-Wen, Z Xiao-Juan
+Many-player entangled state solutions in game theory problems, S Yarlagadda
+Quantum-like model of cognitive decision making and information processing, A Khrennikov
+Quantum Game Theory: Prisoner's Dilemma, M Luvaul
+Secure quantum sealed-bid auction, M Naseri
+Transitivity vs. intransitivity in decision making process-an example in quantum game theory, M Makowski
+Quantum Multiplexers; Parrondo Games; and Proper Quantization, FS Khan
+Yet another framework for quantum simultaneous noncooperative bimatrix games, A Saitoh, R Rahimi, M Nakahara
+A quantum probability explanation for violations of ‘rational’decision theory, EM Pothos, JR Busemeyer
+Non-factorizable joint probabilities and evolutionarily stable strategies in the quantum prisoner's dilemma game, A Iqbal, D Abbott
+Noisy quantum Monty Hall game, P Gawron
+Faster quantum algorithm for evaluating game trees, BW Reichardt
+Parallel approximation of non-interactive zero-sum quantum games, R Jain, J Watrous
+Experimental Realization of a Multi-Player Quantum Game, JB Altepeter, MA Hall, M Medic, M Patel, DA Meyer, P Kumar
+The Rule for Evolution of Cooperation in Quantum Games, ZW Sun
+MULTI-AGENT LEARNING IN THE QUANTUM PRISONER’S DILEMMA, M Jacobs
+Theoretical framework for quantum networks, G Chiribella, GM D'Ariano, P Perinotti
+Noise and the Mermin-GHZ Game, I Fialík
+Quantum Game Simulator; Using the Circuit Model of Quantum, V Panagiotis, I Karafyllidis
+The ultimate solution to the quantum Battle of the Sexes game, p frackiewicz
+Physics of risk and uncertainty in quantum decision making, VI Yukalov, D Sornette
+Cryptanalysis and improvement of a secure quantum sealed-bid auction, SJ Qin, F Gao, QY Wen, LM Meng, FC Zhu
+A novel quantum-inspired immune clonal algorithm with the evolutionary game approach, Q Wu, L Jiao, Y Li, X Deng
+Improved secure quantum sealed-bid auction, YG Yang, M Naseri, QY Wen
+Quantum communication using quantum game theory, M Ramzan, MK Khan
+Quantum game simulator; using the circuit model of quantum computation, P Vlachos, IG Karafyllidis
+Quantum State Tomography Based on Quantum Games Theoretic Setup, A Nawaz, AH Toor
+A novel clustering algorithm based on quantum games, Q Li, Y He, J Jiang
+Multiplayer XOR games and quantum communication complexity with clique-wise entanglement, J Briet, H Buhrman, T Lee, T Vidick
+A Decision-Optimization Approach to Quantum Mechanics and Game Theory, X Huang
+Signal acquisition via polarization modulation in single photon sources, MD McDonnell, AP Flitney
+Processing Information in Quantum Decision Theory, VI Yukalov, D Sornette
+Quantum Parrondo’s Games Under Decoherence, S Khan, M Ramzan, MK Khan
+Quantum number tricks, T Mihara
+Quantum Algorithm for Pebble Game and Its Computational Complexity, S Iriyama, M Ohya
+Application Of Game-theoretic Techniques To Quantum Information Theory, M Ramzan
+The battle of sex game on the quantum games, C WANG, D LUO, S XIA
+Quantum Information; Games and Computation, VG Ivancevic, TT Ivancevic
+Using Many-Body Entanglement for Coordinated Action in Game Theory Problems, S Yarlagadda
+Quantum modeling of social dynamics, C Bisconti, A Corallo, M De Maggio, F Grippa, S Totaro
+Nonlocal Quantum XOR Games for Large Number of Players, A Ambainis, D Kravchenko, N Nahimovs, A Rivosh
+Network Games with Quantum Strategies, G Scarpa
+The Role of Non-Factorizability in Determining “Pseudo-Classical” Non-Separability, P Bruza, A Iqbal, K Kitto
+Static Quantum Games Revisited, M Markiewicz, A Kosowski, T Tylec, J Pykacz, C Gavoille
+Quantum competitive decision algorithm and its application in TSP, L Yong, M Liang, N Ai-Bing
+Quantum strategies and local operations, G Gutoski
+Entanglement production in quantum decision making, VI Yukalov, D Sornette
+Existence of equilibria in quantum Bertrand–Edgeworth duopoly game, Y Sekiguchi, K Sakahara, T Sato
+Proper Quantization of History Dependent Parrondo Games; Markov Processes; and Multiplexing Circuits, F Khan, S Bleiler
+Ubiquitous quantum structure: from psychology to finance, AIU Khrennikov
+Role of adaptive migration in promoting cooperation in spatial games, LL Jiang, WX Wang, YC Lai, BH Wang
+Hawk-Dove-Bully-Retaliator quantum game CAS aided, R López, M Juan
+OCTONIONIZATION OF THREE PLAYER; TWO STRATEGY MAXIMALLY ENTANGLED QUANTUM GAMES, AO Ahmed, SA Bleiler, FS Khan
+Game theory based view to the quantum key distribution BB84 protocol, M Houshmand, HR Mashhadi
+Uniqueness of Nash equilibria in a quantum Cournot duopoly game, Y Sekiguchi, K Sakahara, T Sato
+Evolutionarily Stable Strategies in Quantum Hawk–Dove Game, A Nawaz, AH Toor 
+The relationship between quantum and classical correlation in games, A Brandenburger
+Experimental implementation of a four-player quantum game, C Schmid, AP Flitney, W Wieczorek, N Kiesel, H Weinfurter, LCL Hollenberg
+A Way to Look for Quantum Evolutionary Stable Strategies of 2× 2 Symmetric Games, Z Sun, H Jin
+Unitary noise and the Mermin-GHZ game, I Fialík
+Guess Your Neighbor’s Input: A Multipartite Nonlocal Game with No Quantum Advantage, ML Almeida, JD Bancal, N Brunner, A Acín, N Gisin, S Pironio
+Finite horizon H∞ control for a class of linear quantum systems: A dynamic game approach, AI Maalouf, IR Petersen
+Analysis of two-player quantum games in an EPR setting using geometric algebra, JM Chappell, A Iqbal, D Abbott
+Towards a Quantum Game of Life, AP Flitney, D Abbott
+Quantum computer games: quantum minesweeper, M Gordon, G Gordon
+Game of life cellular automata, A Adamatzky
+Noisy non-transitive quantum games, M Ramzan, S Khan, MK Khan
+On the justification of applying quantum strategies to the Prisoners' Dilemma and mechanism design, H Wu
+Analysis of two-player quantum games using geometric algebra, JM Chappell, A Iqbal, D Abbott
+Constructing quantum games from a system of Bell's inequalities, A Iqbal, D Abbott
+Better Non-Local Games from Hidden Matching, H Buhrman, G Scarpa, R de Wolf
+Lower bounds on the entanglement needed to play XOR non-local games, W Slofstra
+Quantum Monty Hall problem under decoherence, S Khan, M Ramzan, MK Khan
+Quantum dating market, OG Zabaleta, CM Arizmendi
+Quantum Model of Bertrand Duopoly, S Khan, M Ramzan, MK Khan
+A competitive game whose maximal Nash-equilibrium payoff requires quantum resources for its achievement, CD Hill, AP Flitney, NC Menicucci
+Quantum Game Theory and Coordination in Intellectual Property, T Sichelman
+Quantum realization of extensive games, P Frackiewicz
+Analyzing three-player quantum games in an EPR type setup using geometric algebra, JM Chappell, A Iqbal, D Abbott
+Embezzlement States are Universal for Non-Local Strategies, MO Oliveira
+Pursuit and evasion differential games in Hilbert space, GI Ibragimov, RM Hasim
+Embezzlement States are Universal for Non-Local Strategies, MO Oliveira
+Constructing quantum games from symmetric non-factorizable joint probabilities, JM Chappell, A Iqbal, D Abbott
+Game-Theoretic Reversibility and m-Valued Quantum Computation, AN Al-Rabadi
+Quantum Stackelberg duopoly in the presence of correlated noise, S Khan, M Ramzan, MK Khan
+Quantum Parrondo game based on a quantum ratchet effect, L Chen, CF Li, M Gong, GC Guo
+Key Distribution based on Three Player Quantum Games, N Toyota
+A Quantum Game of Life, P Arrighi, J Grattage
+Quantum Game of Life, D Bleh, T Calarco, S Montangero
+Comparison of Thermodynamic Characteristics in Quantum and Classical Approaches and Game Theory, L Sakhnovich
+Environmental influences on Quantum Monty Hall problem, S Khan, M Ramzan, MK Khan
+An efficient test for product states with applications to quantum Merlin-Arthur games, AW Harrow, A Montanaro
+An optical model for an analogy of Parrondo game and designing Brownian ratchets, T Si
+Doves and hawks in economics revisited: An evolutionary quantum game theory based analysis of financial crises, M Hanauske, J Kunz, S Bernius, W König
+Parallel approximation of min-max problems with applications to classical and quantum zero-sum games, G Gutoski, X Wu
+Strategic insights from playing quantum tic-tac-toe, JN Leaw, SA Cheong
+Short quantum games characterize PSPACE, G Gutoski, X Wu
+Biased nonlocal quantum games, T Lawson, N Linden, S Popescu
+Distinguishing quantum channels via magic squares game, M Ramzan, MK Khan
+Interference and inequality in quantum decision theory, T Cheon, T Takahashi
+Arbiter as the third man in classical and quantum games, J Pykacz, P Frackiewicz
+Quantum Strategic Game Theory, S Zhang
+Quantum Games and Quantum Discord, A Nawaz, AH Toor 
+The Generalized Quantization Schemes for Games and its Application to Quantum Information, A Nawaz
+An Introductory Review on Quantum Game Theory, W Liu, M Cui, M He
+Quantum Secure Direct Communication and Quantum Sealed-Bid Auction with EPR Pairs, W Zhang-Yin
+A quantum model for the stock market, C Zhang, L Huang
+Pseudo-Telepathy Games, I Fialík
+On the application of quantum game in mathematical economics, W Chun-xue, Y Xin-xia
+Quantum aspects of lifePVE, PVE McClintock
+QUANTUM UNCERTAINTY AND DECISION-MAKING IN GAME THEORY, M Asano, M Ohya, Y Tanaka, A Khrennikov, I Basieva
+Viewpoint: Entangled in a dating game, R Prevedel, Y Lu, W Matthews, R Kaltenbaek, KJ Resch
+*repeated-427*
+Grothendieck inequalities; nonlocal games and optimization, J Briët
+Bell violations through independent bases games, O Regev
+Photon shell game in three-resonator circuit quantum electrodynamics, M Mariantoni, H Wang, RC Bialczak, M Lenander, E Lucero, M Neeley, AD O’Connell, D Sank, M Weides, J Wenner, T Yamamoto, Y Yin, J Zhao, John M Martinis, AN Cleland
+Non-adaptive measurement-based quantum computation and multi-party Bell inequalities, MJ Hoban, ET Campbell, K Loukopoulos, DE Browne
+QUANTUM MECHANISM HELPS AGENTS COMBAT" BAD" SOCIAL CHOICE RULES, H Wu
+Non-local Boxes, P Lamontagne
+Game semantics for quantum data, Y Delbecque
+Quantum game interpretation for a special case of Parrondo’s paradox, Y Zhu, N Xie, Y Ye, F Peng
+Transitivity of an entangled choice, M Makowski, EW Piotrowski
+Role of quantum memory in a four-player quantum Minority game, M Ramzan, MK Khan
+Quantum-like model for decision making process in two players game, M Asano, M Ohya, A Khrennikov
+Quantum metropolis sampling, K Temme, TJ Osborne, KG Vollbrecht, D Poulin, F Verstraete
+Parrondos game using a discrete-time quantum walk, CM Chandrashekar, S Banerjee
+A periodic point-based method for the analysis of Nash equilibria in 2× 2 symmetric quantum games, D Schneider
+Properly quantized history dependent Parrondo games; Markov processes; and multiplexing circuits, SA Bleiler, FS Khan
+Quantum game interpretation of Dirac spinor field, H Zhi
+Subgame perfect implementation: A new result, H Wu
+Quantum interaction approach in cognition; artificial intelligence and robotics, D Aerts, M Czachor, S Sozzo
+A Quantum Analogue of Parrondo's Game, C Ampadu
+Quantum Bayesian implementation and revelation principle, H Wu
+Non-Local Correlations and Interactive Games, DC Preda
+A GAME THEORETIC APPROACH TO STUDY THE QUANTUM KEY DISTRIBUTION BB84 PROTOCOL, M Houshmand, M Houshmand, HR Mashhadi
+Nash equilibrium in quantum superpositions, FS Khan, SJ Phoenix
+When is one state better than another to play non-local games?, F Buscemi
+Revisiting special relativity: A natural algebraic alternative to Minkowski spacetime, JM Iannella, A Iqbal, D Abbott
+Finite horizon H∞ control for a class of linear quantum measurement delayed systems: A dynamic game approach, AI Maalouf, IR Petersen
+Quantum Stackelberg Duopoly in a Noninertial Frame, S Khan, MK Khan
+Quantum decision theory, A Brandenburger, P La Mura
+Quantum Financial Economics-Risk and Returns, CP Gonçalves
+Quantum information approach to normal representation of extensive games, P Frackiewicz
+Quantum-like model of brain's functioning: Decision making from decoherence, M Asano, M Ohya, Y Tanaka, I Basieva, A Khrennikov
+Simulation of continuous variable quantum games without entanglement, SB Li
+Analyzing Three-Player Quantum Games in an EPR Type Setup, JM Chappell, A Iqbal, D Abbott
+Playing the Aharon-Vaidman quantum game with a Young type photonic qutrit, P Kolenderski, U Sinha, L Youning, T Zhao, M Volpini, A Cabello, R Laflamme, T Jennewein
+Qubit flip game on a Heisenberg spin chain, JA Miszczak, P Gawron, Z Puchała
+Raman spectroscopy and AC conductivity of polyaniline montmorillonite (PANI–MMT) nanocomposites, A Shakoor, TZ Rizvi, A Nawaz
+Parity effect of the initial capital based on Parrondo's games and the quantum interpretation, L Wang, N Xie, Y Zhu, Y Ye, R Meng
+Application of the Eisert–Wilkens–Lewenstein quantum game scheme to decision problems with imperfect recall, p frackiewicz
+Finite Horizon H-Infinity Control for a Class of Linear Quantum Sampled-Data Measurement Systems: A Dynamic Game Approach, A Maalouf, IR Petersen
+Explicit lower and upper bounds on the entangled value of multiplayer XOR games, J Briët, T Vidick
+Relativistic quantum games in noninertial frames, S Khan, MK Khan
+Quantum information approach to the ultimatum game, P Frackiewicz, J Sladkowski
+Lower bounds on the entanglement needed to play XOR non-local games, W Slofstra
+Strategies and payoffs in quantum minority games, P Sharif, H Heydari
+Quantum strategiesGB, GB Dahl, SE Landsburg
+Quantum logics; games; and equilibriums, AA Grib, GN Parfionov
+Quantum solution to a three player Kolkata restaurant problem using entangled qutrits, P Sharif, H Heydari
+Nash equilibria in quantum games, SE Landsburg
+Quantum Strategies Win in a Defector-Dominated Population, Q Li, A Iqbal, M Chen, D Abbott
+Worst case analysis of non-local games, A Ambainis, A Bačkurs, K Balodis, A Škuškovniks, J Smotrovs, M Virza
+The Quantum Game Interpretation for a Special Phenomenon of Parrondo's Paradox, R Li, Y Zhu, J Guo, L Wang, N Xie
+Optimization of Task Allocation Using Quantum Game Theory with Artificial Intelligence, GR Brindha, S Anand, S Prakash, PM JoePrathap
+Quantum Financial Economics of Games of Strategy and Financial Decisions, G Pedro
+Quantum Particle Swarm Optimization Based Search Space Partition with Application to Continuous Space Optimization, J Li, Y Shen, H Liu
+Betting on the outcomes of measurements: a Bayesian theory of quantum probability, I Pitowsky
+Non-local Diffusions; Drifts and Games, L Caffarelli
+Evasion from One Pursuer in a Hilbert Space, F Allahabi, GI Ibragimov
+A quantum–quantum Metropolis algorithm, MH Yung, A Aspuru-Guzik
+Analysis of Two-Player Quantum Games in an EPR Setting Using Clifford's Geometric Algebra, JM Chappell, A Iqbal, D Abbott
+Establishing Model of Adaptive Control in the Optimal Fishing Strategy Based on Quantum Control Techniques, FY Chen, RY Qi, C Jiang
+Gaming the Quantum, F Shah Khan, SJD Phoenix
+Noise and the magic square game, I Fialík
+Stability of couples in a quantum dating market, CM Arizmendi, OG Zabaleta
+Quantum Financial Economics of Games of Strategy and Financial Decisions, CP Gonçalves
+Quantum Cournot equilibrium for the Hotelling-Smithies model of product choice, R Rahaman, P Majumdar, B Basu
+Optimal counterfeiting attacks and generalizations for Wiesner's quantum money, A Molina, T Vidick, J Watrous
+Playing Games with Quantum Mechanics, SJD Phoenix, FS Khan
+Quantum decision making by social agents, V Yukalov, D Sornette
+Quantum Prisoner's Dilemma game on hypergraph networks, L Pawela, J Sladkowski
+Testing product states; quantum Merlin-Arthur games and tensor optimisation, AW Harrow, A Montanaro
+Chaos and Nonlinear Dynamics in a Quantum Artificial Economy, CP Gonçalves
+Quantum State Tomography and Quantum Games, A Nawaz
+Experimental demonstration of quantum gain in a zero-sum game, C Zu, YX Wang, XY Chang, ZH Wei, SY Zhang, LM Duan
+Quantum probabilities in competing lizard communities, D Aerts, M Czachor, B D'Hooghe, M Kuna, B Sinervo, S Sozzo
+A new geometrical approach to Nash equilibria organization in Eisert's quantum games, D Schneider
+Quantum repeated games revisited, p frackiewicz
+Quantum duel revisited, AGM Schmidt, MM Paiva
+Quantum computer games: Schrödinger cat and hounds, M Gordon, G Gordon
+N-player quantum games in an EPR setting, JM Chappell, A Iqbal, D Abbott
+Prisoners' dilemma in the presence of collective dephasing, A Nawaz
+Hedging bets with correlated quantum strategies, A Molina, J Watrous
+Quantum Parrondo's games using quantum walks, AP Flitney
+Some properties of maximally entangled ELW game, K Bolonek-Lason, P Kosinski
+A probabilistic approach to the quantum Bayesian games of incomplete information, A Iqbal, JM Chappell, Q Li, D Abbott
+Evolution of quantum and classical strategies on networks by group interactions, Q Li, A Iqbal, M Chen, D Abbott
+Evolution of quantum strategies on a small-world network, Q Li, A Iqbal, M Chen, D Abbott
+Enhancing pseudo-telepathy in the Magic Square game, Ł Pawela, P Gawron, Z Puchala, J Sladkowski
+Revisiting special relativity: A natural algebraic alternative to Minkowski spacetime, JM Chappell, A Iqbal, N Iannella, D Abbott
+Distributed Probabilistic and Quantum Strategies, G Winskel
+An Introduction to Multi-player; Multi-choice Quantum Games: Quantum Minority Games & Kolkata Restaurant Problems, P Sharif, H Heydari
+A Comment on the Generalization of the Marinatto–Weber Quantum Game Scheme, P Frackiewicz
+MULTIPARTITE ENTANGLEMENT IN XOR GAMES, J Briët, H Buhrman, T Lee, T Vidick
+Three-player quantum Kolkata restaurant problem under decoherence, M Ramzan
+A quantum protocol for sampling correlated equilibria unconditionally and without a mediator, I Kerenidis, S Zhang
+Geometrical Exploration of Quantum Games, D Schneider
+Physical Realization of a Quantum Game, AM Kowalski, A Plastino, M Casas
+Quantum Dating Market, CM Arizmendi, OG Zabaleta
+Quantum dice, MS de Bianchi
+Computing the Communication Complexity of Quantum Channels, A Montina, M Pfaffhauser, S Wolf
+Fine-grained uncertainty relation and biased nonlocal games in bipartite and tripartite systems, A Dey, T Pramanik, AS Majumdar
+Playing a quantum game on polarization vortices, ARC Pinheiro, CER Souza, DP Caetano, JAO Huguenin, AGM Schmidt, AZ Khoury
+Noisy relativistic quantum games in noninertial frames, S Khan, MK Khan
+Quantum Bayesian implementation, H Wu
+Classical rules and quantum strategies in penny flip game, S Balakrishnan, R Sankaranarayanan
+Provable Advantage for Quantum Strategies in Random Symmetric XOR Games, A Ambainis, J Iraids
+Competition between quantum correlations in the quantum-memory-assisted entropic uncertainty relation, ML Hu, H Fan
+Probabilistic aspects of quantum programming, JA Miszczak
+A short impossibility proof of quantum bit commitment, G Chiribella, GM DʼAriano, P Perinotti, D Schlingemann, R Werner
+Quantum games and quaternionic strategies, AO Ahmed
+N-person quantum Russian roulette, P Frackiewicz
+Opening up three quantum boxes causes classically undetectable wavefunction collapse, RE George, LM Robledo, OJE Maroney, MS Blok, H Bernien, ML Markham, DJ Twitchen, JJL Morton, GAD Briggs, R Hanson
+Quantum Steering as a Quantum Game, S Vinjanampathy, JL Chen, M Gu, LC Kwek
+Photoluminescence study of as-grown vertically standing wurtzite InP nanowire ensembles, A Iqbal, JP Beech, N Anttu, ME Pistol, L Samuelson, MT Borgstrom, A Yartsev
+On symmetric nonlocal games, A Ambainis, D Kravchenko, N Nahimov, A Rivosh, M Virza
+Qunatum Parrondo's games constructed by quantum random walk, M Li, YS Zhang, GC Guo
+Disjoint states and quantum games, AM Kowalski, A Plastino
+Mini-maximizing two qubit quantum computations, F Shah Khan, SJD Phoenix
+Oblivious transfer; the CHSH game; and quantum encodings, A Chailloux, I Kerenidis, J Sikora
+Sacrificing Free Will is beneficial than allowing Signaling insemi quantum'game, M Banik
+The Strategic Form of Quantum Prisoners' Dilemma, A Nawaz
+Quantum walks with memory provided by recycled coins and a memory of the coin-flip history, PP Rohde, GK Brennen, A Gilchrist
+Parrondo's paradox and superactivation of classical and quantum capacity of communication channels with memory, S Strelchuk
+The quantum computer game: citizen science, S Damgaard, JF Sherson
+Coevolution of quantum and classical strategies on evolving random networks, Q Li, A Iqbal, M Perc, M Chen, D Abbott
+Werner-like States and Strategic Form of Quantum Games, A Nawaz
+Effects of adaptive degrees of trust on coevolution of quantum strategies on scale-free networks, Q Li, M Chen, M Perc, A Iqbal, D Abbott
