@@ -1,0 +1,18 @@
+The file named papernet contains the name of each paper and it's respective author/s as a comma separated list and each paper is separated by a line break.
+
+Example:
+
+Utility of information game theoretic approach, H Everett
+
+File numbered from 1-685 lists the papers citing each individual paper from the papernet file.
+
+Example:
+
+File No: 675 reads~
+4
+
+This is interpreted as, the paper ID=6 from papernet file ("A Hilbert-space approach to minimax state estimation for plants subject to a control energy constraint, Gyorgy Hexner, Max Mintz") cites the paper/s with the above IDs from papernet file.
+ie: paper ID=6 ("A Hilbert-space approach to minimax state estimation for plants subject to a control energy constraint, Gyorgy Hexner, Max Mintz") cites paper ID=4 ("A max-min differential game in Hilbert space, JE ROBERT") in this case.
+
+It should be noted that the number sequence represents the time sequence as well.
+ie: paper ID=1 was the first one to be published and paper ID=685 was the last one to be published. Paper ID=i would have been published before paper ID=i+1.
